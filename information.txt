@@ -1,0 +1,14 @@
+1. Ready Django Porject
+2. Upload on GitHub
+3. Create EC2 instance (also create or existing ssh key download is required)
+4. Create Dockerfile and docker-compose file.
+5. Tesing perpose you can build docker and run.
+6. Create CI file for checking, is it working or not?
+7. Connect EC2 instance and make ready for the dockerize
+8. Clone GitHub Porject
+9. Go Porject directory and build docker an run for Tesing
+10. Create CD file for continuous deployment then finally push on github.
+11. Now times to check on browser by EC2 public key with registerd port.
+
+
+Resources: https://medium.com/@nomannayeem/complete-ci-cd-with-github-actions-and-aws-for-python-developers-a-step-by-step-guide-92807f6167ee
